@@ -3,6 +3,7 @@
 ## Support Server
 
 [**Join our discord** ❤️](https://discord.gg/PUrDFhrmX9)
+[**Donations** ❤️](https://www.buymeacoffee.com/ryzbe)
 
 ## INSTALLATION
 
