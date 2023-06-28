@@ -2,7 +2,7 @@
 
 ## Support Server
 
-[Join our discord](https://discord.gg/PUrDFhrmX9)
+#[Join our discord](https://discord.gg/PUrDFhrmX9)
 
 ## INSTALLATION
 
