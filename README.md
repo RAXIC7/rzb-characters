@@ -10,7 +10,7 @@
 
 ## PREVIEWS
 
-![IMG1](https://imgur.com/a/szJvrsn)
+![IMG1](https://i.imgur.com/RcECxMeh.jpg)
 ![IMG1](https://imgur.com/a/4xNXemS)
 ![IMG1](https://imgur.com/a/QVls1Kr)
 
