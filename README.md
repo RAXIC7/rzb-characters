@@ -1,5 +1,9 @@
 ## Ryze Roadshop Present: rzb-characters
 
+## Support Server
+
+[Join our discord](https://discord.gg/PUrDFhrmX9)
+
 ## INSTALLATION
 
 ```
@@ -11,6 +15,6 @@
 ## PREVIEWS
 
 ![IMG1](https://i.imgur.com/RcECxMeh.jpg)
-![IMG1](https://imgur.com/a/4xNXemS)
-![IMG1](https://imgur.com/a/QVls1Kr)
+![IMG1](https://i.imgur.com/hwlnsULh.jpg)
+![IMG1](https://i.imgur.com/rHVgXoih.jpg)
 
